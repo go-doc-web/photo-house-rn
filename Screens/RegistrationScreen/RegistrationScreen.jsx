@@ -15,6 +15,7 @@ const RegistrationScreen = () => {
               <Text style={styles.addBtn}>+</Text>
             </View>
           </View>
+
           <RegistrationForm />
         </View>
       </ImageBackground>
